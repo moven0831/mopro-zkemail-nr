@@ -3,7 +3,7 @@
 //  MoproApp
 //
 import SwiftUI
-import MoproFFI
+import moproFFI
 
 // Structs for decoding zkemail_input.json
 struct ZkEmailInputTest: Decodable {
