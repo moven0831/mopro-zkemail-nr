@@ -1,0 +1,15 @@
+{
+  "originHash" : "5ea6c84f2dfc165b4ee23cac042cb8b5cc746b982b40b716b5e8674fe581adbe",
+  "pins" : [
+    {
+      "identity" : "zkemail-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zkmopro/zkemail-swift-package",
+      "state" : {
+        "branch" : "main",
+        "revision" : "52f234cab21d4f1d54d9573aac31ac7c4ced6036"
+      }
+    }
+  ],
+  "version" : 3
+}
