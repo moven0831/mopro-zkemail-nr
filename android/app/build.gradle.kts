@@ -67,7 +67,10 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
 
-    // Uniffi
-    implementation("net.java.dev.jna:jna:5.13.0@aar")
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
+    // // Uniffi
+    // implementation("net.java.dev.jna:jna:5.13.0@aar")
+    // implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
+
+    // zkEmail via MoproFFI
+    implementation("com.github.zkmopro:zkemail-kotlin-package:v0.2.2")
 }
